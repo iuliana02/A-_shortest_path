@@ -23,8 +23,9 @@ class Node:
 
 
 class Graph:
-
+    pass
 
 
 nodes=[]
 n1 = Node('START','A', 0, 1)
+n2 = Node('B','C',1,2)
